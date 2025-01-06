@@ -1,0 +1,1 @@
+cat ./notes/* > README.md
